@@ -1,0 +1,13 @@
+
+# This configuration file is used for creating item mods.
+
+power:
+  operation: percent_add
+  type: swords
+  stats:
+    damage: 10
+  data:
+    name: 'Power Modification'
+    description:
+    - 'Boosts sword performance with +10% damage.'
+    material: DIAMOND

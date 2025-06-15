@@ -1,0 +1,11 @@
+name: UltimateItems
+version: '${version}'
+main: net.sierr.ultimateitems.UltimateItemsPlugin
+api-version: '1.21'
+authors: [Starvern]
+description: An advanced custom items system.
+website: sierr.net
+commands:
+  ultimateitems:
+    usage: /ultimateitems
+    description: Access the plugin

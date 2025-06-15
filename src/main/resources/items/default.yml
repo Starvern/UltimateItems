@@ -1,0 +1,12 @@
+
+# This configuration file is used for creating items.
+
+special_sword:
+  name: 'Special Sword'
+  description:
+  - 'This is indeed special!'
+  material: WOODEN_SWORD
+  stats:
+    damage: 100
+  mods:
+    swords: 1
